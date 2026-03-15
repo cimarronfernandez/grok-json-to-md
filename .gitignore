@@ -1,0 +1,73 @@
+# Python bytecode / cache files ──────────────── most important
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments ───────────────────────── very common
+.venv/
+venv/
+env/
+ENV/
+.env/
+
+# Distribution / packaging folders (if you ever add setup.py / pyproject.toml)
+build/
+dist/
+*.egg-info/
+eggs/
+.eggs/
+
+# IDE / editor folders ───────────────────────── especially useful if you use VS Code / PyCharm
+.vscode/
+.idea/
+*.sublime-*
+
+# macOS junk
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Testing / coverage reports (if you add tests later)
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+*.pytest_cache/
+tox/
+nox/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Personal secrets / API keys (very important!)
+secrets/
+*.env
+*.env.*
+.env.local
+.env.development
+.env.test
+.env.production
+
+# The actual JSON export file ──────────────── optional but recommended
+# (you probably don't want to commit 100 MB+ chat exports)
+*.json
+prod-grok-backend.json
+grok-export-*.json
+
+# Output folder created by your script
+clean_chats_md/
+clean-chats/
+md-exports/
