@@ -5,7 +5,7 @@
 ## The problem this script solves
 
 Most existing methods could only export separate grok chats to md files.
-After oversharing too much personal information with grok, I panicked and decided to take everything down after exporting them (Then I will have a detailed journal of my thoughts, I am embarrassed to admit how careless I was with my privacy when talking to LLMs :(
+After oversharing too much personal information with grok, I panicked and decided to take everything down after exporting them (Then I will have a detailed journal of my thoughts), I am embarrassed to admit how careless I was with my privacy when talking to LLMs :(
 
 However, when you export **all your Grok conversations** (via grok.x.ai → Settings → Data → Export), you get one massive JSON file that looks like this:
 
