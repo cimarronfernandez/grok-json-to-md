@@ -62,10 +62,10 @@ clean-chats/
 Just download the single file:
 ```Bash
 # easiest way
-curl -O [https://raw.githubusercontent.com/cimarronfernandez/grok-json-to-md/main/grok_export_json_to_md.py](https://raw.githubusercontent.com/cimarronfernandez/grok-json-to-md/main/grok_export_json_to_md.py)
+curl -O https://raw.githubusercontent.com/cimarronfernandez/grok-json-to-md/main/grok_export_json_to_md.py
 
 # or git clone the repo
-git clone [https://github.com/cimarronfernandez/grok-json-to-md.git](https://github.com/cimarronfernandez/grok-json-to-md.git)
+git clone https://github.com/cimarronfernandez/grok-json-to-md.git
 ```
 
 No pip install needed — it uses only built-in Python modules.
