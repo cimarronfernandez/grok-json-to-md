@@ -70,7 +70,7 @@ git clone https://github.com/cimarronfernandez/grok-json-to-md.git
 
 No pip install needed — it uses only built-in Python modules.
 
-Requirements
+## Requirements
 
     Python 3.8 or newer
 
